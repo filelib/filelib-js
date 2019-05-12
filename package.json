@@ -1,0 +1,29 @@
+{
+  "name": "filelibjs",
+  "version": "0.0.1rc",
+  "description": "Offical npm module of Filelib API",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filelib/filelib-js.git"
+  },
+  "keywords": [
+    "Filelib",
+    "API",
+    "File",
+    "Uploader",
+    "Conversion"
+  ],
+  "author": "justinmusti",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/filelib/filelib-js/issues"
+  },
+  "homepage": "https://github.com/filelib/filelib-js#readme",
+  "dependencies": {
+    "uppy": "^1.0.1"
+  }
+}
